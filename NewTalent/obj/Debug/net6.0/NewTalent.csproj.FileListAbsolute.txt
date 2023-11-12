@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\bin\Debug\net6.0\NewTalent.exe
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\bin\Debug\net6.0\NewTalent.deps.json
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\bin\Debug\net6.0\NewTalent.runtimeconfig.json
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\bin\Debug\net6.0\NewTalent.dll
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\bin\Debug\net6.0\NewTalent.pdb
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\obj\Debug\net6.0\NewTalent.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\obj\Debug\net6.0\NewTalent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\obj\Debug\net6.0\NewTalent.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\obj\Debug\net6.0\NewTalent.AssemblyInfo.cs
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\obj\Debug\net6.0\NewTalent.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\obj\Debug\net6.0\NewTalent.dll
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\obj\Debug\net6.0\refint\NewTalent.dll
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\obj\Debug\net6.0\NewTalent.pdb
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\obj\Debug\net6.0\NewTalent.genruntimeconfig.cache
+C:\Users\Home\Desktop\DIO\Desafio\TDD\NewTalent\obj\Debug\net6.0\ref\NewTalent.dll
